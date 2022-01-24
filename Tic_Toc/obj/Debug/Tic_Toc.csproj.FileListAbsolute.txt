@@ -1,0 +1,11 @@
+C:\Users\azhar damir\Source\Repos\Tic_Toc\Tic_Toc\bin\Debug\Tic_Toc.exe.config
+C:\Users\azhar damir\Source\Repos\Tic_Toc\Tic_Toc\bin\Debug\Tic_Toc.exe
+C:\Users\azhar damir\Source\Repos\Tic_Toc\Tic_Toc\bin\Debug\Tic_Toc.pdb
+C:\Users\azhar damir\Source\Repos\Tic_Toc\Tic_Toc\obj\Debug\Tic_Toc.csproj.AssemblyReference.cache
+C:\Users\azhar damir\Source\Repos\Tic_Toc\Tic_Toc\obj\Debug\Tic_Toc.csproj.SuggestedBindingRedirects.cache
+C:\Users\azhar damir\Source\Repos\Tic_Toc\Tic_Toc\obj\Debug\Tic_Toc.Form1.resources
+C:\Users\azhar damir\Source\Repos\Tic_Toc\Tic_Toc\obj\Debug\Tic_Toc.Properties.Resources.resources
+C:\Users\azhar damir\Source\Repos\Tic_Toc\Tic_Toc\obj\Debug\Tic_Toc.csproj.GenerateResource.cache
+C:\Users\azhar damir\Source\Repos\Tic_Toc\Tic_Toc\obj\Debug\Tic_Toc.csproj.CoreCompileInputs.cache
+C:\Users\azhar damir\Source\Repos\Tic_Toc\Tic_Toc\obj\Debug\Tic_Toc.exe
+C:\Users\azhar damir\Source\Repos\Tic_Toc\Tic_Toc\obj\Debug\Tic_Toc.pdb
